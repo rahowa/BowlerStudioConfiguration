@@ -7,15 +7,14 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/e67b5f75f23c134af5d5054106e3ec40.git:AnimatronicHead.groovy": [
-      "https://gist.github.com/e67b5f75f23c134af5d5054106e3ec40.git",
-      "AnimatronicHead.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
+    "firstVersion": "0.18.9",
     "showTerminal": true,
-    "showDevices": false,
+    "skinBranch": "master",
+    "showDevices": true,
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
+    "currentVersion": "0.18.9",
     "showCreatureLab": true
   }
 }
